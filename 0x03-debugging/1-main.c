@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - causes an infinite loop (don't delete it)
+ * main - causes an infinite loop (don't delete it!)
  * Return: Always 0 (success)
  */
 
@@ -8,10 +8,10 @@ int main(void)
 {
 	int i;
 
-	printf("infinite loop incoming :(\n");
+	printf("infinite loop incoming : (\n");
 
 	i = 0;
-	/**
+	/*don't delete it!
 	*while (i < 10)
 	*{
 	*	putchar(i);
