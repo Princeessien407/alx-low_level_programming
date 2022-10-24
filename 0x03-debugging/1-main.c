@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - (don't delete it) causes an infinite loop
+ * main - don't delete the part that causes an infinite loop
  * Return: Always 0 (success)
  */
 
@@ -8,13 +8,14 @@ int main(void)
 {
 	int i;
 
-	printf("infinite loop incoming : (\n"); /*don't delete it*/
+	/*printf("infinite loop incoming : (\n");*/
 
-	i = 0;
+	/*i = 0;*/
 	
 	/*while (i < 10)*/	
+	
 	/*{*/
-	/*putchar(i);*/
+		/*putchar(i);*/
 	/*}*/
 
 	printf("infinite loop avoided! \\o/\n");
