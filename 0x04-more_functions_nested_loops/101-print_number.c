@@ -63,4 +63,5 @@ void print_number(int n)
 	if (b8 != 0)
 		_putchar('0' + a8);
 	_putchar('0' + a9);
+	return (0);
 }
